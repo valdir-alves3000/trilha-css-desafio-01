@@ -6,7 +6,7 @@ Este desafio CSS tem como propósito avaliar suas habilidades de estilização p
 
 ## Layout
 
-Confira o layout do projeto no Figma para uma análise detalhada da estrutura visual. O ambiente interativo proporciona uma compreensão profunda da estética, organização e interações. Clique [aqui](https://dio.me/curso-css/AF8WB16042I7) para acessar e colaborar no desenvolvimento do projeto.
+Confira o layout do projeto no Figma para uma análise detalhada da estrutura visual. O ambiente interativo proporciona uma compreensão profunda da estética, organização e interações. Clique [aqui](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=0%3A1) para acessar e colaborar no desenvolvimento do projeto.
 
 ## Variáveis de Cores
 
